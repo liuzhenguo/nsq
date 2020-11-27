@@ -1,0 +1,2 @@
+# nsq
+read nsq code
