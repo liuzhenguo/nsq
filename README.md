@@ -1,2 +1,3 @@
 # nsq
-read nsq code
+read nsq code 
+11111
